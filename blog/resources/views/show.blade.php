@@ -6,7 +6,7 @@
         <title>Blog</title>
 
         <!-- Fonts -->
-        <link href="https:fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
     </head>
     <body>
         <h1>Blog Name</h1>
