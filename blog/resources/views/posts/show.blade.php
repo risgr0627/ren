@@ -22,6 +22,7 @@
                 <p class='body'>{{ $post->body }}</p>
                 <p class='updated_at'>{{ $post->updated_at }}</p>
             </div>
+            <a href="/categories/{{ $post->category->id }}">{{ $post->category->name }}</a>
             <div class='back'>[<a href='/'>back</a>]</div>
             <script>
                 function deletePost(e){
